@@ -1,0 +1,1 @@
+EduSchool is a full-stack School Management System designed to simplify and organize daily academic and administrative activities within a school. The application provides role-based access for administrators, teachers, students, and parents, allowing each user to access features according to their responsibilities.
